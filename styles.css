@@ -1,0 +1,28 @@
+body{
+    background:rgb(92, 16, 179);
+    font-size: 35px;
+    color: rgb(12, 5, 12);
+    text-align:justify;
+    margin:5px;
+}
+span{
+    background:rgb(243, 182, 192);
+    font-weight: bold;
+    color:blue;
+}
+input[type="email"]{
+    background:rgb(20, 12, 18);
+    color:rgb(245, 235, 235);
+    font-size:15px;
+    margin:20px;
+    padding:11px;
+}
+input[type="Subscribe"]{
+    background:rgb(168, 245, 14);
+    font-size:21px;
+    padding:5px;
+}
+img{
+    height:auto;
+    width:300px;
+}
